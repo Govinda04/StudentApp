@@ -29,6 +29,7 @@ export const HeaderView = styled(View)`
 export const HeaderText = styled(Text)`
   font-size: 28px;
   font-weight: bold;
+  color: ${Color.grey44};
 `;
 // export const HeaderView = styled(View)``;
 

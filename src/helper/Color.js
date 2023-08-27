@@ -12,7 +12,7 @@ const Color = {
   black: '#000000',
   white: '#FFFFFF',
   grey: '#676767',
-  grey82: '#828282',
+  grey44: '#444444',
 
   transparent: '#00000000',
 };
